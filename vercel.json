@@ -1,4 +1,7 @@
 {
+  "buildCommand": "cd app/frontend && yarn install && yarn build",
+  "outputDirectory": "app/frontend/dist",
+  "framework": "vite",
   "rewrites": [
     {
       "source": "/(.*)",
