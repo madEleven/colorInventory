@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "status": "success",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-04-22/ndbdt7yaaflq/cute-cat-mascot.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-04-22/ndbdt7yaaflq/cute-cat-mascot.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-04-22/ndbdt7yaaflq/cute-cat-mascot.png",
+      "message": "Image generated successfully.\n\nNote: The image is on CDN and will be displayed automatically. Just describe what you created briefly, no need to mention filenames or URLs.",
+      "description": "A cute kawaii white cat character face with a pink bow on the left ear, simple round face, small black eyes, tiny pink nose, no mouth, whiskers, chibi style, pastel pink theme, Sanrio-inspired original design",
+      "style": "cartoon",
+      "filename": "cute-cat-mascot.png"
+    },
+    {
+      "status": "success",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-04-22/ndbdutaaafma/empty-state-beads.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-04-22/ndbdutaaafma/empty-state-beads.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-04-22/ndbdutaaafma/empty-state-beads.png",
+      "message": "Image generated successfully.\n\nNote: The image is on CDN and will be displayed automatically. Just describe what you created briefly, no need to mention filenames or URLs.",
+      "description": "Cute kawaii illustration of scattered colorful round beads with tiny sad faces, pastel colors, some beads have sparkles, soft and adorable style, minimal background",
+      "style": "cartoon",
+      "filename": "empty-state-beads.png"
+    },
+    {
+      "status": "success",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-04-22/ndbd5cqaafna/header-decoration.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-04-22/ndbd5cqaafna/header-decoration.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1135264/2026-04-22/ndbd5cqaafna/header-decoration.png",
+      "message": "Image generated successfully.\n\nNote: The image is on CDN and will be displayed automatically. Just describe what you created briefly, no need to mention filenames or URLs.",
+      "description": "Decorative banner with cute cat paw prints, small stars, hearts, and ribbon swirls, pastel pink and white color scheme, kawaii pattern, horizontal layout",
+      "style": "cartoon",
+      "filename": "header-decoration.png"
+    }
+  ],
+  "success_count": 3,
+  "failed_count": 0,
+  "message": "Generated 3/3 images"
+}
